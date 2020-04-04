@@ -1,0 +1,499 @@
+(dp1
+S'output'
+p2
+S"<type 'exceptions.TypeError'> expected string or buffer"
+p3
+sS'layer'
+p4
+S'C:\\Users\\Ignacio\\Desktop\\TFG\\Git\\web2py\\applications\\twitter_api\\controllers/api.py'
+p5
+sS'code'
+p6
+S'<code object <module> at 000000000AEC4330, file "C:\\Users\\Ignacio\\Desktop\\TFG\\Git\\web2py\\applications\\twitter_api\\controllers/api.py", line 1>'
+p7
+sS'snapshot'
+p8
+(dp9
+S'exception'
+p10
+(dp11
+S'__getslice__'
+p12
+S"<method-wrapper '__getslice__' of exceptions.TypeError object>"
+p13
+sS'__str__'
+p14
+S"<method-wrapper '__str__' of exceptions.TypeError object>"
+p15
+sS'__reduce__'
+p16
+S'<built-in method __reduce__ of exceptions.TypeError object>'
+p17
+sS'__dict__'
+p18
+S'{}'
+p19
+sS'message'
+p20
+S"'expected string or buffer'"
+p21
+sS'__sizeof__'
+p22
+S'<built-in method __sizeof__ of exceptions.TypeError object>'
+p23
+sS'__init__'
+p24
+S"<method-wrapper '__init__' of exceptions.TypeError object>"
+p25
+sS'__setattr__'
+p26
+S"<method-wrapper '__setattr__' of exceptions.TypeError object>"
+p27
+sS'__reduce_ex__'
+p28
+S'<built-in method __reduce_ex__ of exceptions.TypeError object>'
+p29
+sS'__new__'
+p30
+S'<built-in method __new__ of type object>'
+p31
+sS'__format__'
+p32
+S'<built-in method __format__ of exceptions.TypeError object>'
+p33
+sS'__class__'
+p34
+S"<type 'exceptions.TypeError'>"
+p35
+sS'__doc__'
+p36
+S"'Inappropriate argument type.'"
+p37
+sS'__getitem__'
+p38
+S"<method-wrapper '__getitem__' of exceptions.TypeError object>"
+p39
+sS'__setstate__'
+p40
+S'<built-in method __setstate__ of exceptions.TypeError object>'
+p41
+sS'__getattribute__'
+p42
+S"<method-wrapper '__getattribute__' of exceptions.TypeError object>"
+p43
+sS'args'
+p44
+S"('expected string or buffer',)"
+p45
+sS'__subclasshook__'
+p46
+S'<built-in method __subclasshook__ of type object>'
+p47
+sS'__unicode__'
+p48
+S'<built-in method __unicode__ of exceptions.TypeError object>'
+p49
+sS'__delattr__'
+p50
+S"<method-wrapper '__delattr__' of exceptions.TypeError object>"
+p51
+sS'__repr__'
+p52
+S"<method-wrapper '__repr__' of exceptions.TypeError object>"
+p53
+sS'__hash__'
+p54
+S"<method-wrapper '__hash__' of exceptions.TypeError object>"
+p55
+ssS'evalue'
+p56
+S'expected string or buffer'
+p57
+sS'request'
+p58
+cgluon.html
+XML_unpickle
+p59
+(S's\x8a\\\x00\x00<div><table><tr><td style="font-weight:bold;vertical-align:top;">ajax</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">application</td><td style="vertical-align:top;">:</td><td><div>twitter_api</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">args</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cid</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">client</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">controller</td><td style="vertical-align:top;">:</td><td><div>api</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cookies</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">session_id_twitter_api</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-ef81e644-6055-472f-8ea4-2b3cc39736c8<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">samesite</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">env</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">CONTENT_LENGTH</td><td style="vertical-align:top;">:</td><td><div>9</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">CONTENT_TYPE</td><td style="vertical-align:top;">:</td><td><div>application/x-www-form-urlencoded; charset=UTF-8</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ACCEPT</td><td style="vertical-align:top;">:</td><td><div>*/*</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ACCEPT_ENCODING</td><td style="vertical-align:top;">:</td><td><div>gzip, deflate, br</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ACCEPT_LANGUAGE</td><td style="vertical-align:top;">:</td><td><div>es,en;q=0.9</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_CONNECTION</td><td style="vertical-align:top;">:</td><td><div>keep-alive</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_CONTENT_LENGTH</td><td style="vertical-align:top;">:</td><td><div>9</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_CONTENT_TYPE</td><td style="vertical-align:top;">:</td><td><div>application/x-www-form-urlencoded; charset=UTF-8</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_COOKIE</td><td style="vertical-align:top;">:</td><td><div>session_id_twitter_api=127.0.0.1-ef81e644-6055-472f-8ea4-2b3cc39736c8</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_HOST</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1:8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ORIGIN</td><td style="vertical-align:top;">:</td><td><div>http://127.0.0.1:8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_REFERER</td><td style="vertical-align:top;">:</td><td><div>http://127.0.0.1:8000/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_SEC_FETCH_MODE</td><td style="vertical-align:top;">:</td><td><div>cors</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_SEC_FETCH_SITE</td><td style="vertical-align:top;">:</td><td><div>same-origin</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_USER_AGENT</td><td style="vertical-align:top;">:</td><td><div>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_X_REQUESTED_WITH</td><td style="vertical-align:top;">:</td><td><div>XMLHttpRequest</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">PATH_INFO</td><td style="vertical-align:top;">:</td><td><div>/api/get_tweet</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">QUERY_STRING</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REMOTE_ADDR</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REMOTE_PORT</td><td style="vertical-align:top;">:</td><td><div>63553</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REQUEST_METHOD</td><td style="vertical-align:top;">:</td><td><div>POST</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SCRIPT_NAME</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_NAME</td><td style="vertical-align:top;">:</td><td><div>LAPTOP-L4O5O5SF</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_PORT</td><td style="vertical-align:top;">:</td><td><div>8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_PROTOCOL</td><td style="vertical-align:top;">:</td><td><div>HTTP/1.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_SOFTWARE</td><td style="vertical-align:top;">:</td><td><div>Rocket 1.2.6</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">app_folders</td><td style="vertical-align:top;">:</td><td><div>set([&#x27;C:\\\\Users\\\\Ignacio\\\\Desktop\\\\TFG\\\\Git\\\\web2py\\\\applications\\\\twitter_api&#x27;])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">applications_parent</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Ignacio\\Desktop\\TFG\\Git\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_args</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_options</td><td style="vertical-align:top;">:</td><td><div>&lt;Values at 0x4045d48: {&#x27;verbose&#x27;: False, &#x27;ip&#x27;: &#x27;127.0.0.1&#x27;, &#x27;debuglevel&#x27;: 30, &#x27;with_scheduler&#x27;: False, &#x27;shutdown_timeout&#x27;: 5, &#x27;taskbar&#x27;: False, &#x27;with_coverage&#x27;: False, &#x27;pid_filename&#x27;: &#x27;httpserver.pid&#x27;, &#x27;maxthreads&#x27;: None, &#x27;softcron&#x27;: False, &#x27;server_name&#x27;: &#x27;LAPTOP-L4O5O5SF&#x27;, &#x27;bpython&#x27;: False, &#x27;nogui&#x27;: False, &#x27;port&#x27;: 8000, &#x27;print_errors&#x27;: True, &#x27;extcron&#x27;: False, &#x27;runcron&#x27;: False, &#x27;run_system_tests&#x27;: False, &#x27;test&#x27;: None, &#x27;folder&#x27;: &#x27;C:\\\\Users\\\\Ignacio\\\\Desktop\\\\TFG\\\\Git\\\\web2py&#x27;, &#x27;config&#x27;: &#x27;&#x27;, &#x27;minthreads&#x27;: None, &#x27;shell&#x27;: None, &#x27;run&#x27;: &#x27;&#x27;, &#x27;log_filename&#x27;: &#x27;httpserver.log&#x27;, &#x27;profiler_dir&#x27;: None, &#x27;args&#x27;: [], &#x27;socket_timeout&#x27;: 5, &#x27;ssl_ca_certificate&#x27;: None, &#x27;scheduler&#x27;: None, &#x27;interfaces&#x27;: None, &#x27;ssl_private_key&#x27;: &#x27;&#x27;, &#x27;gae&#x27;: None, &#x27;password&#x27;: &#x27;******&#x27;, &#x27;request_queue_size&#x27;: 5, &#x27;ssl_certificate&#x27;: &#x27;&#x27;, &#x27;cronjob&#x27;: False, &#x27;numthreads&#x27;: None, &#x27;quiet&#x27;: False, &#x27;import_models&#x27;: False, &#x27;timeout&#x27;: 10, &#x27;plain&#x27;: False, &#x27;nobanner&#x27;: False}&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">content_length</td><td style="vertical-align:top;">:</td><td><div>9</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">content_type</td><td style="vertical-align:top;">:</td><td><div>application/x-www-form-urlencoded; charset=UTF-8</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">db_sessions</td><td style="vertical-align:top;">:</td><td><div>set([])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">debugging</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">gluon_parent</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Ignacio\\Desktop\\TFG\\Git\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_accept</td><td style="vertical-align:top;">:</td><td><div>*/*</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_accept_encoding</td><td style="vertical-align:top;">:</td><td><div>gzip, deflate, br</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_accept_language</td><td style="vertical-align:top;">:</td><td><div>es,en;q=0.9</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_connection</td><td style="vertical-align:top;">:</td><td><div>keep-alive</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_content_length</td><td style="vertical-align:top;">:</td><td><div>9</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_content_type</td><td style="vertical-align:top;">:</td><td><div>application/x-www-form-urlencoded; charset=UTF-8</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_cookie</td><td style="vertical-align:top;">:</td><td><div>session_id_twitter_api=127.0.0.1-ef81e644-6055-472f-8ea4-2b3cc39736c8</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_host</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1:8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_origin</td><td style="vertical-align:top;">:</td><td><div>http://127.0.0.1:8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_referer</td><td style="vertical-align:top;">:</td><td><div>http://127.0.0.1:8000/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_sec_fetch_mode</td><td style="vertical-align:top;">:</td><td><div>cors</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_sec_fetch_site</td><td style="vertical-align:top;">:</td><td><div>same-origin</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_user_agent</td><td style="vertical-align:top;">:</td><td><div>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_x_requested_with</td><td style="vertical-align:top;">:</td><td><div>XMLHttpRequest</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_jython</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_py2</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_pypy</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_source</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">local_hosts</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>fe80::64bf:1f23:8129:d457%10</div></td></tr><tr><td><div>LAPTOP-L4O5O5SF.home</div></td></tr><tr><td><div>LAPTOP-L4O5O5SF</div></td></tr><tr><td><div>192.168.1.103</div></td></tr><tr><td><div>::ffff:127.0.0.1</div></td></tr><tr><td><div>::1</div></td></tr><tr><td><div>2a02:2e02:32c9:8300:9d56:66ff:2771:7207</div></td></tr><tr><td><div>127.0.0.1</div></td></tr><tr><td><div>2a02:2e02:32c9:8300:64bf:1f23:8129:d457</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path_info</td><td style="vertical-align:top;">:</td><td><div>/api/get_tweet</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">query_string</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">remote_addr</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">remote_port</td><td style="vertical-align:top;">:</td><td><div>63553</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">request_method</td><td style="vertical-align:top;">:</td><td><div>POST</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">request_uri</td><td style="vertical-align:top;">:</td><td><div>/twitter_api/en/api/get_tweet</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">script_name</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_name</td><td style="vertical-align:top;">:</td><td><div>LAPTOP-L4O5O5SF</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_port</td><td style="vertical-align:top;">:</td><td><div>8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_protocol</td><td style="vertical-align:top;">:</td><td><div>HTTP/1.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_software</td><td style="vertical-align:top;">:</td><td><div>Rocket 1.2.6</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_original_uri</td><td style="vertical-align:top;">:</td><td><div>/api/get_tweet</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_path</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Ignacio\\Desktop\\TFG\\Git\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_version</td><td style="vertical-align:top;">:</td><td><div>2.18.5-stable+timestamp.2019.04.08.04.22.03</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.errors</td><td style="vertical-align:top;">:</td><td><div>&lt;open file &#x27;&lt;stderr&gt;&#x27;, mode &#x27;w&#x27; at 0x000000000239B150&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.file_wrapper</td><td style="vertical-align:top;">:</td><td><div>&lt;class wsgiref.util.FileWrapper at 0x0000000003FBEB88&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.input</td><td style="vertical-align:top;">:</td><td><div>&lt;socket._fileobject object at 0x000000000A57BF48&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.multiprocess</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.multithread</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.run_once</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.url_scheme</td><td style="vertical-align:top;">:</td><td><div>http</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.version</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>1</div></td></tr><tr><td><div>0</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_errors</td><td style="vertical-align:top;">:</td><td><div>&lt;open file &#x27;&lt;stderr&gt;&#x27;, mode &#x27;w&#x27; at 0x000000000239B150&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_file_wrapper</td><td style="vertical-align:top;">:</td><td><div>&lt;class wsgiref.util.FileWrapper at 0x0000000003FBEB88&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_input</td><td style="vertical-align:top;">:</td><td><div>&lt;socket._fileobject object at 0x000000000A57BF48&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_multiprocess</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_multithread</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_run_once</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_url_scheme</td><td style="vertical-align:top;">:</td><td><div>http</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_version</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>1</div></td></tr><tr><td><div>0</div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">extension</td><td style="vertical-align:top;">:</td><td><div>html</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">folder</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Ignacio\\Desktop\\TFG\\Git\\web2py\\applications\\twitter_api</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">function</td><td style="vertical-align:top;">:</td><td><div>get_tweet</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">global_settings</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">app_folders</td><td style="vertical-align:top;">:</td><td><div>set([&#x27;C:\\\\Users\\\\Ignacio\\\\Desktop\\\\TFG\\\\Git\\\\web2py\\\\applications\\\\twitter_api&#x27;])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">applications_parent</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Ignacio\\Desktop\\TFG\\Git\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_args</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_options</td><td style="vertical-align:top;">:</td><td><div>&lt;Values at 0x4045d48: {&#x27;verbose&#x27;: False, &#x27;ip&#x27;: &#x27;127.0.0.1&#x27;, &#x27;debuglevel&#x27;: 30, &#x27;with_scheduler&#x27;: False, &#x27;shutdown_timeout&#x27;: 5, &#x27;taskbar&#x27;: False, &#x27;with_coverage&#x27;: False, &#x27;pid_filename&#x27;: &#x27;httpserver.pid&#x27;, &#x27;maxthreads&#x27;: None, &#x27;softcron&#x27;: False, &#x27;server_name&#x27;: &#x27;LAPTOP-L4O5O5SF&#x27;, &#x27;bpython&#x27;: False, &#x27;nogui&#x27;: False, &#x27;port&#x27;: 8000, &#x27;print_errors&#x27;: True, &#x27;extcron&#x27;: False, &#x27;runcron&#x27;: False, &#x27;run_system_tests&#x27;: False, &#x27;test&#x27;: None, &#x27;folder&#x27;: &#x27;C:\\\\Users\\\\Ignacio\\\\Desktop\\\\TFG\\\\Git\\\\web2py&#x27;, &#x27;config&#x27;: &#x27;&#x27;, &#x27;minthreads&#x27;: None, &#x27;shell&#x27;: None, &#x27;run&#x27;: &#x27;&#x27;, &#x27;log_filename&#x27;: &#x27;httpserver.log&#x27;, &#x27;profiler_dir&#x27;: None, &#x27;args&#x27;: [], &#x27;socket_timeout&#x27;: 5, &#x27;ssl_ca_certificate&#x27;: None, &#x27;scheduler&#x27;: None, &#x27;interfaces&#x27;: None, &#x27;ssl_private_key&#x27;: &#x27;&#x27;, &#x27;gae&#x27;: None, &#x27;password&#x27;: &#x27;******&#x27;, &#x27;request_queue_size&#x27;: 5, &#x27;ssl_certificate&#x27;: &#x27;&#x27;, &#x27;cronjob&#x27;: False, &#x27;numthreads&#x27;: None, &#x27;quiet&#x27;: False, &#x27;import_models&#x27;: False, &#x27;timeout&#x27;: 10, &#x27;plain&#x27;: False, &#x27;nobanner&#x27;: False}&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">db_sessions</td><td style="vertical-align:top;">:</td><td><div>set([])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">debugging</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">gluon_parent</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Ignacio\\Desktop\\TFG\\Git\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_jython</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_py2</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_pypy</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_source</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">local_hosts</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>fe80::64bf:1f23:8129:d457%10</div></td></tr><tr><td><div>LAPTOP-L4O5O5SF.home</div></td></tr><tr><td><div>LAPTOP-L4O5O5SF</div></td></tr><tr><td><div>192.168.1.103</div></td></tr><tr><td><div>::ffff:127.0.0.1</div></td></tr><tr><td><div>::1</div></td></tr><tr><td><div>2a02:2e02:32c9:8300:9d56:66ff:2771:7207</div></td></tr><tr><td><div>127.0.0.1</div></td></tr><tr><td><div>2a02:2e02:32c9:8300:64bf:1f23:8129:d457</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_version</td><td style="vertical-align:top;">:</td><td><div>2.18.5-stable+timestamp.2019.04.08.04.22.03</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_https</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_local</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_restful</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_scheduler</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_shell</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">method</td><td style="vertical-align:top;">:</td><td><div>POST</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">now</td><td style="vertical-align:top;">:</td><td><div>datetime.datetime(2019, 9, 10, 12, 36, 6, 72000)</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">uri_language</td><td style="vertical-align:top;">:</td><td><div>en</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">url</td><td style="vertical-align:top;">:</td><td><div>/api/get_tweet</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">utcnow</td><td style="vertical-align:top;">:</td><td><div>datetime.datetime(2019, 9, 10, 10, 36, 6, 72000)</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi</td><td style="vertical-align:top;">:</td><td><div>&lt;gluon.main.LazyWSGI object at 0x000000000AEC8DA0&gt;</div></td></tr></table></div>'
+tRp60
+sS'frames'
+p61
+(lp62
+(dp63
+S'file'
+p64
+S'C:\\Users\\Ignacio\\Desktop\\TFG\\Git\\web2py\\gluon\\restricted.py'
+p65
+sS'dump'
+p66
+(dp67
+S'environment'
+p68
+S"{'A': <class 'gluon.html.A'>, 'ANY_OF': <class 'pydal.validators.ANY_OF'>, 'ASSIGNJS': <function ASSIGNJS>, 'AppConfig': <function AppConfig>, 'Auth': <class 'gluon.tools.Auth'>, 'B': <class 'gluon.html.B'>, 'BEAUTIFY': <class 'gluon.html.BEAUTIFY'>, 'BODY': <class 'gluon.html.BODY'>, 'BR': <class 'gluon.html.BR'>, 'BUTTON': <class 'gluon.html.BUTTON'>, ...}"
+p69
+sS'ccode'
+p70
+S'<code object <module> at 000000000AEC4330, file ...ications\\twitter_api\\controllers/api.py", line 1>'
+p71
+ssS'lnum'
+p72
+I219
+sS'lines'
+p73
+(dp74
+I214
+S'    if environment is None:'
+p75
+sI215
+S'        environment = {}'
+p76
+sI216
+S"    environment['__file__'] = layer"
+p77
+sI217
+S"    environment['__name__'] = '__restricted__'"
+p78
+sI218
+S'    try:'
+p79
+sI219
+S'        exec(ccode, environment)'
+p80
+sI220
+S'    except HTTP:'
+p81
+sI221
+S'        raise'
+p82
+sI222
+S'    except RestrictedError:'
+p83
+sI223
+S'        # do not encapsulate (obfuscate) the original RestrictedError'
+p84
+ssS'call'
+p85
+S'(ccode=<code object <module> at 000000000AEC4330, file ...ications\\twitter_api\\controllers/api.py", line 1>, environment={\'A\': <class \'gluon.html.A\'>, \'ANY_OF\': <class \'pydal.validators.ANY_OF\'>, \'ASSIGNJS\': <function ASSIGNJS>, \'AppConfig\': <function AppConfig>, \'Auth\': <class \'gluon.tools.Auth\'>, \'B\': <class \'gluon.html.B\'>, \'BEAUTIFY\': <class \'gluon.html.BEAUTIFY\'>, \'BODY\': <class \'gluon.html.BODY\'>, \'BR\': <class \'gluon.html.BR\'>, \'BUTTON\': <class \'gluon.html.BUTTON\'>, ...}, layer=r\'C:\\Users\\Ignacio\\Desktop\\TFG\\Git\\web2py\\applications\\twitter_api\\controllers/api.py\', scode=<code object <module> at 000000000AEC4330, file ...ications\\twitter_api\\controllers/api.py", line 1>)'
+p86
+sS'func'
+p87
+S'restricted'
+p88
+sa(dp89
+g64
+S'C:\\Users\\Ignacio\\Desktop\\TFG\\Git\\web2py\\applications\\twitter_api\\controllers\\api.py'
+p90
+sg66
+(dp91
+sg72
+I353
+sg73
+(dp92
+I342
+S'            lista_enfrentamientos.append(enfrentamientos)'
+p93
+sI343
+S'            lista_parejas.append(parejas)'
+p94
+sI344
+S'            counter+=1'
+p95
+sI345
+S'        else:'
+p96
+sI346
+S'            counter+=1'
+p97
+sI347
+S'    max_group = counter - 1'
+p98
+sI348
+S'    return response.json(dict(enfrentamientos = lista_enfrentamientos, parejas = lista_parejas, max_group = max_group))'
+p99
+sI349
+S''
+sI350
+S'# def delete():'
+p100
+sI351
+S'    # db(db.pareja.grupo == None).delete()'
+p101
+ssg85
+S'()'
+p102
+sg87
+S'<module>'
+p103
+sa(dp104
+g64
+S'C:\\Users\\Ignacio\\Desktop\\TFG\\Git\\web2py\\gluon\\globals.py'
+p105
+sg66
+(dp106
+S'self'
+p107
+S'undefined'
+p108
+sS'f'
+S'<function get_tweet>'
+p109
+ssg72
+I421
+sg73
+(dp110
+I416
+S"        self.flash = ''            # used by the default view layout"
+p111
+sI417
+S'        self.meta = Storage()      # used by web2py_ajax.html'
+p112
+sI418
+S'        self.menu = []             # used by the default view layout'
+p113
+sI419
+S'        self.files = []            # used by web2py_ajax.html'
+p114
+sI420
+S'        self._vars = None'
+p115
+sI421
+S'        self._caller = lambda f: f()'
+p116
+sI422
+S'        self._view_environment = None'
+p117
+sI423
+S'        self._custom_commit = None'
+p118
+sI424
+S'        self._custom_rollback = None'
+p119
+sI425
+S"        self.generic_patterns = ['*']"
+p120
+ssg85
+S'(f=<function get_tweet>)'
+p121
+sg87
+S'<lambda>'
+p122
+sa(dp123
+g64
+S'C:\\Users\\Ignacio\\Desktop\\TFG\\Git\\web2py\\applications\\twitter_api\\controllers\\api.py'
+p124
+sg66
+(dp125
+S'retweets'
+p126
+g108
+sS'global get_retweets_json'
+p127
+S'<function get_retweets_json>'
+p128
+ssg72
+I85
+sg73
+(dp129
+I80
+S'# Warning, now the id is hardcoded, retrieve from each tweet'
+p130
+sI81
+S"        print ('\\n\\nEBA')"
+p131
+sI82
+S'        # print (tweets)'
+p132
+sI83
+S'        # print (json.dumps(tweets))'
+p133
+sI84
+S'        # r = json.dumps(tweets).replace(\'null\', \'""\')'
+p134
+sI85
+S'        r = json.dumps(json.dumps(json.loads(tweets)))'
+p135
+sI86
+S''
+sI87
+S''
+sI88
+S'        print (json.loads(r))'
+p136
+sI89
+S'        # print (tweets[0].id)'
+p137
+ssg85
+S'()'
+p138
+sg87
+S'get_tweet'
+p139
+sa(dp140
+g64
+S'C:\\Python27\\lib\\json\\__init__.py'
+p141
+sg66
+(dp142
+S's'
+S'[{u\'created_at\': u\'Mon Sep 09 00:49:47 +0000 2019\', u\'favorite_count\': 36014, u\'hashtags\': [], u\'id\': 1170861824071413760L, u\'id_str\': u\'1170861824071413760\', u\'lang\': u\'pt\', u\'retweet_count\': 10393, u\'source\': u\'<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>\', u\'text\': u\'Uma crian\\xe7a de 5 anos, com paralisia cerebr...\\n\\nQuase toda not\\u2026 https://t.co/919RgUURaE\', u\'truncated\': True, ...}, {u\'created_at\': u\'Mon Sep 09 17:47:58 +0000 2019\', u\'favorite_count\': 7140, u\'hashtags\': [], u\'id\': 1171118058016051206L, u\'id_str\': u\'1171118058016051206\', u\'lang\': u\'pt\', u\'retweet_count\': 3485, u\'source\': u\'<a href="https://about.twitter.com/products/tweetdeck" rel="nofollow">TweetDeck</a>\', u\'text\': u\'em casa:\\n\\nn\\xe3o aguento mais ficar em casa\\n\\nqnd sa\\xed: \\n\\nquero ir pra casa\', u\'urls\': [], ...}, {u\'created_at\': u\'Mon Sep 09 04:26:10 +0000 2019\', u\'favorite_count\': 9733, u\'hashtags\': [], u\'id\': 1170916281220050944L, u\'id_str\': u\'1170916281220050944\', u\'lang\': u\'pt\', u\'place\': {u\'attributes\': {}, u\'bounding_box\': {u\'coordinates\': [[[...], [...], [...], [...]]], u\'type\': u\'Polygon\'}, u\'contained_within\': [], u\'country\': u\'Brazil\', u\'country_code\': u\'BR\', u\'full_name\': u\'Sao Paulo, Brazil\', u\'id\': u\'68e019afec7d0ba5\', u\'name\': u\'Sao Paulo\', u\'place_type\': u\'city\', u\'url\': u\'https://api.twitter.com/1.1/geo/id/68e019afec7d0ba5.json\'}, u\'retweet_count\': 2157, u\'source\': u\'<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>\', u\'text\': u\'Esse YouTuber est\\xe1 proibido de entrar na mi...ica o alerta aos p\\u2026 https://t.co/omO16RmZIN\', ...}, {u\'created_at\': u\'Tue Sep 10 10:35:50 +0000 2019\', u\'hashtags\': [], u\'id\': 1171371699897548803L, u\'id_str\': u\'1171371699897548803\', u\'lang\': u\'pt\', u\'source\': u\'<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>\', u\'text\': u\'Tenham amigos que te buscam em casa quando vc ...ulat\\xf3rio pra vc n\\xe3o ficar na merda sozinha\', u\'urls\': [], u\'user\': {u\'created_at\': u\'Sat Feb 19 21:51:16 +0000 2011\', u\'description\': u\'Atrair o que vc espera. Refletir o que vc dese...eita. Espelhar-se no que vc admira. \\u264a\\ufe0f\', u\'favourites_count\': 17720, u\'followers_count\': 645, u\'friends_count\': 418, u\'geo_enabled\': True, u\'id\': 254727155, u\'id_str\': u\'254727155\', u\'name\': u\'Carolina Lara\', u\'profile_background_color\': u\'FFFFFF\', ...}, u\'user_mentions\': []}, {u\'created_at\': u\'Tue Sep 10 10:35:50 +0000 2019\', u\'hashtags\': [], u\'id\': 1171371699650138114L, u\'id_str\': u\'1171371699650138114\', u\'lang\': u\'pt\', u\'media\': [{u\'display_url\': u\'pic.twitter.com/QmAQtGXAUs\', u\'expanded_url\': u\'https://twitter.com/eunsangprint/status/1163810505204494336/video/1\', u\'id\': 1163810477748604931L, u\'media_url\': u\'http://pbs.twimg.com/ext_tw_video_thumb/1163810477748604931/pu/img/SCuRvQTconf3dEVq.jpg\', u\'media_url_https\': u\'https://pbs.twimg.com/ext_tw_video_thumb/1163810477748604931/pu/img/SCuRvQTconf3dEVq.jpg\', u\'sizes\': {u\'large\': {u\'h\': 480, u\'resize\': u\'fit\', u\'w\': 480}, u\'medium\': {u\'h\': 480, u\'resize\': u\'fit\', u\'w\': 480}, u\'small\': {u\'h\': 480, u\'resize\': u\'fit\', u\'w\': 480}, u\'thumb\': {u\'h\': 150, u\'resize\': u\'crop\', u\'w\': 150}}, u\'type\': u\'video\', u\'url\': u\'https://t.co/QmAQtGXAUs\', u\'video_info\': {u\'aspect_ratio\': [1, 1], u\'duration_millis\': 10100, u\'variants\': [{...}, {...}, {...}]}}], u\'retweet_count\': 1604, u\'retweeted_status\': {u\'created_at\': u\'Mon Sep 09 11:05:32 +0000 2019\', u\'favorite_count\': 2999, u\'hashtags\': [], u\'id\': 1171016784486510592L, u\'id_str\': u\'1171016784486510592\', u\'lang\': u\'pt\', u\'media\': [{u\'display_url\': u\'pic.twitter.com/QmAQtGXAUs\', u\'expanded_url\': u\'https://twitter.com/eunsangprint/status/1163810505204494336/video/1\', u\'id\': 1163810477748604931L, u\'media_url\': u\'http://pbs.twimg.com/ext_tw_video_thumb/1163810477748604931/pu/img/SCuRvQTconf3dEVq.jpg\', u\'media_url_https\': u\'https://pbs.twimg.com/ext_tw_video_thumb/1163810477748604931/pu/img/SCuRvQTconf3dEVq.jpg\', u\'sizes\': {u\'large\': {...}, u\'medium\': {...}, u\'small\': {...}, u\'thumb\': {...}}, u\'type\': u\'video\', u\'url\': u\'https://t.co/QmAQtGXAUs\', u\'video_info\': {u\'aspect_ratio\': [...], u\'duration_millis\': 10100, u\'variants\': [...]}}], u\'retweet_count\': 1604, u\'source\': u\'<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>\', u\'text\': u\'quando eu passo o dia inteiro querendo chorar da\\xed chego em casa  https://t.co/QmAQtGXAUs\', ...}, u\'source\': u\'<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>\', u\'text\': u\'RT @esqu1lofrenia: quando eu passo o dia intei...ar da\\xed chego em casa  https://t.co/QmAQtGXAUs\', ...}]'
+p143
+sS'global _default_decoder'
+p144
+S'<json.decoder.JSONDecoder object>'
+p145
+sS'_default_decoder.decode'
+p146
+S'<bound method JSONDecoder.decode of <json.decoder.JSONDecoder object>>'
+p147
+ssg72
+I338
+sg73
+(dp148
+I333
+S''
+sI334
+S'    """'
+p149
+sI335
+S'    if (cls is None and encoding is None and object_hook is None and'
+p150
+sI336
+S'            parse_int is None and parse_float is None and'
+p151
+sI337
+S'            parse_constant is None and object_pairs_hook is None and not kw):'
+p152
+sI338
+S'        return _default_decoder.decode(s)'
+p153
+sI339
+S'    if cls is None:'
+p154
+sI340
+S'        cls = JSONDecoder'
+p155
+sI341
+S'    if object_hook is not None:'
+p156
+sI342
+S"        kw['object_hook'] = object_hook"
+p157
+ssg85
+S'(s=[{u\'created_at\': u\'Mon Sep 09 00:49:47 +0000 2019\', u\'favorite_count\': 36014, u\'hashtags\': [], u\'id\': 1170861824071413760L, u\'id_str\': u\'1170861824071413760\', u\'lang\': u\'pt\', u\'retweet_count\': 10393, u\'source\': u\'<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>\', u\'text\': u\'Uma crian\\xe7a de 5 anos, com paralisia cerebr...\\n\\nQuase toda not\\u2026 https://t.co/919RgUURaE\', u\'truncated\': True, ...}, {u\'created_at\': u\'Mon Sep 09 17:47:58 +0000 2019\', u\'favorite_count\': 7140, u\'hashtags\': [], u\'id\': 1171118058016051206L, u\'id_str\': u\'1171118058016051206\', u\'lang\': u\'pt\', u\'retweet_count\': 3485, u\'source\': u\'<a href="https://about.twitter.com/products/tweetdeck" rel="nofollow">TweetDeck</a>\', u\'text\': u\'em casa:\\n\\nn\\xe3o aguento mais ficar em casa\\n\\nqnd sa\\xed: \\n\\nquero ir pra casa\', u\'urls\': [], ...}, {u\'created_at\': u\'Mon Sep 09 04:26:10 +0000 2019\', u\'favorite_count\': 9733, u\'hashtags\': [], u\'id\': 1170916281220050944L, u\'id_str\': u\'1170916281220050944\', u\'lang\': u\'pt\', u\'place\': {u\'attributes\': {}, u\'bounding_box\': {u\'coordinates\': [[[...], [...], [...], [...]]], u\'type\': u\'Polygon\'}, u\'contained_within\': [], u\'country\': u\'Brazil\', u\'country_code\': u\'BR\', u\'full_name\': u\'Sao Paulo, Brazil\', u\'id\': u\'68e019afec7d0ba5\', u\'name\': u\'Sao Paulo\', u\'place_type\': u\'city\', u\'url\': u\'https://api.twitter.com/1.1/geo/id/68e019afec7d0ba5.json\'}, u\'retweet_count\': 2157, u\'source\': u\'<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>\', u\'text\': u\'Esse YouTuber est\\xe1 proibido de entrar na mi...ica o alerta aos p\\u2026 https://t.co/omO16RmZIN\', ...}, {u\'created_at\': u\'Tue Sep 10 10:35:50 +0000 2019\', u\'hashtags\': [], u\'id\': 1171371699897548803L, u\'id_str\': u\'1171371699897548803\', u\'lang\': u\'pt\', u\'source\': u\'<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>\', u\'text\': u\'Tenham amigos que te buscam em casa quando vc ...ulat\\xf3rio pra vc n\\xe3o ficar na merda sozinha\', u\'urls\': [], u\'user\': {u\'created_at\': u\'Sat Feb 19 21:51:16 +0000 2011\', u\'description\': u\'Atrair o que vc espera. Refletir o que vc dese...eita. Espelhar-se no que vc admira. \\u264a\\ufe0f\', u\'favourites_count\': 17720, u\'followers_count\': 645, u\'friends_count\': 418, u\'geo_enabled\': True, u\'id\': 254727155, u\'id_str\': u\'254727155\', u\'name\': u\'Carolina Lara\', u\'profile_background_color\': u\'FFFFFF\', ...}, u\'user_mentions\': []}, {u\'created_at\': u\'Tue Sep 10 10:35:50 +0000 2019\', u\'hashtags\': [], u\'id\': 1171371699650138114L, u\'id_str\': u\'1171371699650138114\', u\'lang\': u\'pt\', u\'media\': [{u\'display_url\': u\'pic.twitter.com/QmAQtGXAUs\', u\'expanded_url\': u\'https://twitter.com/eunsangprint/status/1163810505204494336/video/1\', u\'id\': 1163810477748604931L, u\'media_url\': u\'http://pbs.twimg.com/ext_tw_video_thumb/1163810477748604931/pu/img/SCuRvQTconf3dEVq.jpg\', u\'media_url_https\': u\'https://pbs.twimg.com/ext_tw_video_thumb/1163810477748604931/pu/img/SCuRvQTconf3dEVq.jpg\', u\'sizes\': {u\'large\': {u\'h\': 480, u\'resize\': u\'fit\', u\'w\': 480}, u\'medium\': {u\'h\': 480, u\'resize\': u\'fit\', u\'w\': 480}, u\'small\': {u\'h\': 480, u\'resize\': u\'fit\', u\'w\': 480}, u\'thumb\': {u\'h\': 150, u\'resize\': u\'crop\', u\'w\': 150}}, u\'type\': u\'video\', u\'url\': u\'https://t.co/QmAQtGXAUs\', u\'video_info\': {u\'aspect_ratio\': [1, 1], u\'duration_millis\': 10100, u\'variants\': [{...}, {...}, {...}]}}], u\'retweet_count\': 1604, u\'retweeted_status\': {u\'created_at\': u\'Mon Sep 09 11:05:32 +0000 2019\', u\'favorite_count\': 2999, u\'hashtags\': [], u\'id\': 1171016784486510592L, u\'id_str\': u\'1171016784486510592\', u\'lang\': u\'pt\', u\'media\': [{u\'display_url\': u\'pic.twitter.com/QmAQtGXAUs\', u\'expanded_url\': u\'https://twitter.com/eunsangprint/status/1163810505204494336/video/1\', u\'id\': 1163810477748604931L, u\'media_url\': u\'http://pbs.twimg.com/ext_tw_video_thumb/1163810477748604931/pu/img/SCuRvQTconf3dEVq.jpg\', u\'media_url_https\': u\'https://pbs.twimg.com/ext_tw_video_thumb/1163810477748604931/pu/img/SCuRvQTconf3dEVq.jpg\', u\'sizes\': {u\'large\': {...}, u\'medium\': {...}, u\'small\': {...}, u\'thumb\': {...}}, u\'type\': u\'video\', u\'url\': u\'https://t.co/QmAQtGXAUs\', u\'video_info\': {u\'aspect_ratio\': [...], u\'duration_millis\': 10100, u\'variants\': [...]}}], u\'retweet_count\': 1604, u\'source\': u\'<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>\', u\'text\': u\'quando eu passo o dia inteiro querendo chorar da\\xed chego em casa  https://t.co/QmAQtGXAUs\', ...}, u\'source\': u\'<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>\', u\'text\': u\'RT @esqu1lofrenia: quando eu passo o dia intei...ar da\\xed chego em casa  https://t.co/QmAQtGXAUs\', ...}], encoding=None, cls=None, object_hook=None, parse_float=None, parse_int=None, parse_constant=None, object_pairs_hook=None, **kw={})'
+p158
+sg87
+S'loads'
+p159
+sa(dp160
+g64
+S'C:\\Python27\\lib\\json\\decoder.py'
+p161
+sg66
+(dp162
+S').end'
+p163
+g108
+sS'end'
+p164
+g108
+sS'idx'
+p165
+g108
+sS'_w'
+p166
+S'<built-in method match of _sre.SRE_Pattern object>'
+p167
+sS'self'
+p168
+S'<json.decoder.JSONDecoder object>'
+p169
+sS's'
+S'[{u\'created_at\': u\'Mon Sep 09 00:49:47 +0000 2019\', u\'favorite_count\': 36014, u\'hashtags\': [], u\'id\': 1170861824071413760L, u\'id_str\': u\'1170861824071413760\', u\'lang\': u\'pt\', u\'retweet_count\': 10393, u\'source\': u\'<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>\', u\'text\': u\'Uma crian\\xe7a de 5 anos, com paralisia cerebr...\\n\\nQuase toda not\\u2026 https://t.co/919RgUURaE\', u\'truncated\': True, ...}, {u\'created_at\': u\'Mon Sep 09 17:47:58 +0000 2019\', u\'favorite_count\': 7140, u\'hashtags\': [], u\'id\': 1171118058016051206L, u\'id_str\': u\'1171118058016051206\', u\'lang\': u\'pt\', u\'retweet_count\': 3485, u\'source\': u\'<a href="https://about.twitter.com/products/tweetdeck" rel="nofollow">TweetDeck</a>\', u\'text\': u\'em casa:\\n\\nn\\xe3o aguento mais ficar em casa\\n\\nqnd sa\\xed: \\n\\nquero ir pra casa\', u\'urls\': [], ...}, {u\'created_at\': u\'Mon Sep 09 04:26:10 +0000 2019\', u\'favorite_count\': 9733, u\'hashtags\': [], u\'id\': 1170916281220050944L, u\'id_str\': u\'1170916281220050944\', u\'lang\': u\'pt\', u\'place\': {u\'attributes\': {}, u\'bounding_box\': {u\'coordinates\': [[[...], [...], [...], [...]]], u\'type\': u\'Polygon\'}, u\'contained_within\': [], u\'country\': u\'Brazil\', u\'country_code\': u\'BR\', u\'full_name\': u\'Sao Paulo, Brazil\', u\'id\': u\'68e019afec7d0ba5\', u\'name\': u\'Sao Paulo\', u\'place_type\': u\'city\', u\'url\': u\'https://api.twitter.com/1.1/geo/id/68e019afec7d0ba5.json\'}, u\'retweet_count\': 2157, u\'source\': u\'<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>\', u\'text\': u\'Esse YouTuber est\\xe1 proibido de entrar na mi...ica o alerta aos p\\u2026 https://t.co/omO16RmZIN\', ...}, {u\'created_at\': u\'Tue Sep 10 10:35:50 +0000 2019\', u\'hashtags\': [], u\'id\': 1171371699897548803L, u\'id_str\': u\'1171371699897548803\', u\'lang\': u\'pt\', u\'source\': u\'<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>\', u\'text\': u\'Tenham amigos que te buscam em casa quando vc ...ulat\\xf3rio pra vc n\\xe3o ficar na merda sozinha\', u\'urls\': [], u\'user\': {u\'created_at\': u\'Sat Feb 19 21:51:16 +0000 2011\', u\'description\': u\'Atrair o que vc espera. Refletir o que vc dese...eita. Espelhar-se no que vc admira. \\u264a\\ufe0f\', u\'favourites_count\': 17720, u\'followers_count\': 645, u\'friends_count\': 418, u\'geo_enabled\': True, u\'id\': 254727155, u\'id_str\': u\'254727155\', u\'name\': u\'Carolina Lara\', u\'profile_background_color\': u\'FFFFFF\', ...}, u\'user_mentions\': []}, {u\'created_at\': u\'Tue Sep 10 10:35:50 +0000 2019\', u\'hashtags\': [], u\'id\': 1171371699650138114L, u\'id_str\': u\'1171371699650138114\', u\'lang\': u\'pt\', u\'media\': [{u\'display_url\': u\'pic.twitter.com/QmAQtGXAUs\', u\'expanded_url\': u\'https://twitter.com/eunsangprint/status/1163810505204494336/video/1\', u\'id\': 1163810477748604931L, u\'media_url\': u\'http://pbs.twimg.com/ext_tw_video_thumb/1163810477748604931/pu/img/SCuRvQTconf3dEVq.jpg\', u\'media_url_https\': u\'https://pbs.twimg.com/ext_tw_video_thumb/1163810477748604931/pu/img/SCuRvQTconf3dEVq.jpg\', u\'sizes\': {u\'large\': {u\'h\': 480, u\'resize\': u\'fit\', u\'w\': 480}, u\'medium\': {u\'h\': 480, u\'resize\': u\'fit\', u\'w\': 480}, u\'small\': {u\'h\': 480, u\'resize\': u\'fit\', u\'w\': 480}, u\'thumb\': {u\'h\': 150, u\'resize\': u\'crop\', u\'w\': 150}}, u\'type\': u\'video\', u\'url\': u\'https://t.co/QmAQtGXAUs\', u\'video_info\': {u\'aspect_ratio\': [1, 1], u\'duration_millis\': 10100, u\'variants\': [{...}, {...}, {...}]}}], u\'retweet_count\': 1604, u\'retweeted_status\': {u\'created_at\': u\'Mon Sep 09 11:05:32 +0000 2019\', u\'favorite_count\': 2999, u\'hashtags\': [], u\'id\': 1171016784486510592L, u\'id_str\': u\'1171016784486510592\', u\'lang\': u\'pt\', u\'media\': [{u\'display_url\': u\'pic.twitter.com/QmAQtGXAUs\', u\'expanded_url\': u\'https://twitter.com/eunsangprint/status/1163810505204494336/video/1\', u\'id\': 1163810477748604931L, u\'media_url\': u\'http://pbs.twimg.com/ext_tw_video_thumb/1163810477748604931/pu/img/SCuRvQTconf3dEVq.jpg\', u\'media_url_https\': u\'https://pbs.twimg.com/ext_tw_video_thumb/1163810477748604931/pu/img/SCuRvQTconf3dEVq.jpg\', u\'sizes\': {u\'large\': {...}, u\'medium\': {...}, u\'small\': {...}, u\'thumb\': {...}}, u\'type\': u\'video\', u\'url\': u\'https://t.co/QmAQtGXAUs\', u\'video_info\': {u\'aspect_ratio\': [...], u\'duration_millis\': 10100, u\'variants\': [...]}}], u\'retweet_count\': 1604, u\'source\': u\'<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>\', u\'text\': u\'quando eu passo o dia inteiro querendo chorar da\\xed chego em casa  https://t.co/QmAQtGXAUs\', ...}, u\'source\': u\'<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>\', u\'text\': u\'RT @esqu1lofrenia: quando eu passo o dia intei...ar da\\xed chego em casa  https://t.co/QmAQtGXAUs\', ...}]'
+p170
+sS'self.raw_decode'
+p171
+S'<bound method JSONDecoder.raw_decode of <json.decoder.JSONDecoder object>>'
+p172
+sS'obj'
+p173
+g108
+ssg72
+I366
+sg73
+(dp174
+I361
+S'    def decode(self, s, _w=WHITESPACE.match):'
+p175
+sI362
+S'        """Return the Python representation of ``s`` (a ``str`` or ``unicode``'
+p176
+sI363
+S'        instance containing a JSON document)'
+p177
+sI364
+S''
+sI365
+S'        """'
+p178
+sI366
+S'        obj, end = self.raw_decode(s, idx=_w(s, 0).end())'
+p179
+sI367
+S'        end = _w(s, end).end()'
+p180
+sI368
+S'        if end != len(s):'
+p181
+sI369
+S'            raise ValueError(errmsg("Extra data", s, end, len(s)))'
+p182
+sI370
+S'        return obj'
+p183
+ssg85
+S'(self=<json.decoder.JSONDecoder object>, s=[{u\'created_at\': u\'Mon Sep 09 00:49:47 +0000 2019\', u\'favorite_count\': 36014, u\'hashtags\': [], u\'id\': 1170861824071413760L, u\'id_str\': u\'1170861824071413760\', u\'lang\': u\'pt\', u\'retweet_count\': 10393, u\'source\': u\'<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>\', u\'text\': u\'Uma crian\\xe7a de 5 anos, com paralisia cerebr...\\n\\nQuase toda not\\u2026 https://t.co/919RgUURaE\', u\'truncated\': True, ...}, {u\'created_at\': u\'Mon Sep 09 17:47:58 +0000 2019\', u\'favorite_count\': 7140, u\'hashtags\': [], u\'id\': 1171118058016051206L, u\'id_str\': u\'1171118058016051206\', u\'lang\': u\'pt\', u\'retweet_count\': 3485, u\'source\': u\'<a href="https://about.twitter.com/products/tweetdeck" rel="nofollow">TweetDeck</a>\', u\'text\': u\'em casa:\\n\\nn\\xe3o aguento mais ficar em casa\\n\\nqnd sa\\xed: \\n\\nquero ir pra casa\', u\'urls\': [], ...}, {u\'created_at\': u\'Mon Sep 09 04:26:10 +0000 2019\', u\'favorite_count\': 9733, u\'hashtags\': [], u\'id\': 1170916281220050944L, u\'id_str\': u\'1170916281220050944\', u\'lang\': u\'pt\', u\'place\': {u\'attributes\': {}, u\'bounding_box\': {u\'coordinates\': [[[...], [...], [...], [...]]], u\'type\': u\'Polygon\'}, u\'contained_within\': [], u\'country\': u\'Brazil\', u\'country_code\': u\'BR\', u\'full_name\': u\'Sao Paulo, Brazil\', u\'id\': u\'68e019afec7d0ba5\', u\'name\': u\'Sao Paulo\', u\'place_type\': u\'city\', u\'url\': u\'https://api.twitter.com/1.1/geo/id/68e019afec7d0ba5.json\'}, u\'retweet_count\': 2157, u\'source\': u\'<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>\', u\'text\': u\'Esse YouTuber est\\xe1 proibido de entrar na mi...ica o alerta aos p\\u2026 https://t.co/omO16RmZIN\', ...}, {u\'created_at\': u\'Tue Sep 10 10:35:50 +0000 2019\', u\'hashtags\': [], u\'id\': 1171371699897548803L, u\'id_str\': u\'1171371699897548803\', u\'lang\': u\'pt\', u\'source\': u\'<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>\', u\'text\': u\'Tenham amigos que te buscam em casa quando vc ...ulat\\xf3rio pra vc n\\xe3o ficar na merda sozinha\', u\'urls\': [], u\'user\': {u\'created_at\': u\'Sat Feb 19 21:51:16 +0000 2011\', u\'description\': u\'Atrair o que vc espera. Refletir o que vc dese...eita. Espelhar-se no que vc admira. \\u264a\\ufe0f\', u\'favourites_count\': 17720, u\'followers_count\': 645, u\'friends_count\': 418, u\'geo_enabled\': True, u\'id\': 254727155, u\'id_str\': u\'254727155\', u\'name\': u\'Carolina Lara\', u\'profile_background_color\': u\'FFFFFF\', ...}, u\'user_mentions\': []}, {u\'created_at\': u\'Tue Sep 10 10:35:50 +0000 2019\', u\'hashtags\': [], u\'id\': 1171371699650138114L, u\'id_str\': u\'1171371699650138114\', u\'lang\': u\'pt\', u\'media\': [{u\'display_url\': u\'pic.twitter.com/QmAQtGXAUs\', u\'expanded_url\': u\'https://twitter.com/eunsangprint/status/1163810505204494336/video/1\', u\'id\': 1163810477748604931L, u\'media_url\': u\'http://pbs.twimg.com/ext_tw_video_thumb/1163810477748604931/pu/img/SCuRvQTconf3dEVq.jpg\', u\'media_url_https\': u\'https://pbs.twimg.com/ext_tw_video_thumb/1163810477748604931/pu/img/SCuRvQTconf3dEVq.jpg\', u\'sizes\': {u\'large\': {u\'h\': 480, u\'resize\': u\'fit\', u\'w\': 480}, u\'medium\': {u\'h\': 480, u\'resize\': u\'fit\', u\'w\': 480}, u\'small\': {u\'h\': 480, u\'resize\': u\'fit\', u\'w\': 480}, u\'thumb\': {u\'h\': 150, u\'resize\': u\'crop\', u\'w\': 150}}, u\'type\': u\'video\', u\'url\': u\'https://t.co/QmAQtGXAUs\', u\'video_info\': {u\'aspect_ratio\': [1, 1], u\'duration_millis\': 10100, u\'variants\': [{...}, {...}, {...}]}}], u\'retweet_count\': 1604, u\'retweeted_status\': {u\'created_at\': u\'Mon Sep 09 11:05:32 +0000 2019\', u\'favorite_count\': 2999, u\'hashtags\': [], u\'id\': 1171016784486510592L, u\'id_str\': u\'1171016784486510592\', u\'lang\': u\'pt\', u\'media\': [{u\'display_url\': u\'pic.twitter.com/QmAQtGXAUs\', u\'expanded_url\': u\'https://twitter.com/eunsangprint/status/1163810505204494336/video/1\', u\'id\': 1163810477748604931L, u\'media_url\': u\'http://pbs.twimg.com/ext_tw_video_thumb/1163810477748604931/pu/img/SCuRvQTconf3dEVq.jpg\', u\'media_url_https\': u\'https://pbs.twimg.com/ext_tw_video_thumb/1163810477748604931/pu/img/SCuRvQTconf3dEVq.jpg\', u\'sizes\': {u\'large\': {...}, u\'medium\': {...}, u\'small\': {...}, u\'thumb\': {...}}, u\'type\': u\'video\', u\'url\': u\'https://t.co/QmAQtGXAUs\', u\'video_info\': {u\'aspect_ratio\': [...], u\'duration_millis\': 10100, u\'variants\': [...]}}], u\'retweet_count\': 1604, u\'source\': u\'<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>\', u\'text\': u\'quando eu passo o dia inteiro querendo chorar da\\xed chego em casa  https://t.co/QmAQtGXAUs\', ...}, u\'source\': u\'<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>\', u\'text\': u\'RT @esqu1lofrenia: quando eu passo o dia intei...ar da\\xed chego em casa  https://t.co/QmAQtGXAUs\', ...}], _w=<built-in method match of _sre.SRE_Pattern object>)'
+p184
+sg87
+S'decode'
+p185
+sasS'pyver'
+p186
+S'Python 2.7.10: C:\\Python27\\python.exe (prefix: C:\\Python27)'
+p187
+sS'session'
+p188
+g59
+(S's\x1a\x00\x00\x00<div><table></table></div>'
+tRp189
+sS'etype'
+p190
+S"<type 'exceptions.TypeError'>"
+p191
+sS'date'
+p192
+S'Tue Sep 10 12:36:07 2019'
+p193
+sS'response'
+p194
+g59
+(S'sR\x1d\x00\x00<div><table><tr><td style="font-weight:bold;vertical-align:top;">body</td><td style="vertical-align:top;">:</td><td><div>&lt;cStringIO.StringO object at 0x000000000B6F8CA8&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cookies</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">session_id_twitter_api</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-c0510bc3-fcab-4160-aac6-bd788a97dae9<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div>/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">samesite</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">delimiters</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>{{</div></td></tr><tr><td><div>}}</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">files</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">flash</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">form_label_separator</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">formstyle</td><td style="vertical-align:top;">:</td><td><div>bootstrap4_inline</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">generic_patterns</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>*</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">google_analytics_id</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">headers</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">X-Powered-By</td><td style="vertical-align:top;">:</td><td><div>web2py</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">menu</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div><table><tr><td><div>Dahboard</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/</div></td></tr><tr><td><div><table></table></div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>graphs</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/graphic_test</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>vue graph 2</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/graphic_test_two</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Index Cuatro</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/index_cuatro</div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">meta</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">author</td><td style="vertical-align:top;">:</td><td><div>Your Name &lt;you@example.com&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">description</td><td style="vertical-align:top;">:</td><td><div>a cool new app</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">generator</td><td style="vertical-align:top;">:</td><td><div>Web2py Web Framework</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">keywords</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>web2py</div></td></tr><tr><td><div>python</div></td></tr><tr><td><div>framework</div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">models_to_run</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>^\\w+\\.py$</div></td></tr><tr><td><div>^api/\\w+\\.py$</div></td></tr><tr><td><div>^api/get_tweet/\\w+\\.py$</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">postprocessing</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_client</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_cookie_compression_level</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_cookie_expires</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_data_name</td><td style="vertical-align:top;">:</td><td><div>session_data_twitter_api</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_file</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_filename</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Ignacio\\Desktop\\TFG\\Git\\web2py\\applications\\twitter_api\\sessions\\127.0.0.1-c0510bc3-fcab-4160-aac6-bd788a97dae9</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_hash</td><td style="vertical-align:top;">:</td><td><div>c0762cbf4baf7f9af97c051e7fcb8083</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-c0510bc3-fcab-4160-aac6-bd788a97dae9</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_name</td><td style="vertical-align:top;">:</td><td><div>session_id_twitter_api</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_masterapp</td><td style="vertical-align:top;">:</td><td><div>twitter_api</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_new</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_storage_type</td><td style="vertical-align:top;">:</td><td><div>file</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">show_toolbar</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">status</td><td style="vertical-align:top;">:</td><td><div>200</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">view</td><td style="vertical-align:top;">:</td><td><div>api/get_tweet.html</div></td></tr></table></div>'
+tRp195
+sS'locals'
+p196
+(dp197
+S'_w'
+p198
+S'<built-in method match of _sre.SRE_Pattern object>'
+p199
+sS's'
+S'[{u\'created_at\': u\'Mon Sep 09 00:49:47 +0000 2019\', u\'favorite_count\': 36014, u\'hashtags\': [], u\'id\': 1170861824071413760L, u\'id_str\': u\'1170861824071413760\', u\'lang\': u\'pt\', u\'retweet_count\': 10393, u\'source\': u\'<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>\', u\'text\': u\'Uma crian\\xe7a de 5 anos, com paralisia cerebr...\\n\\nQuase toda not\\u2026 https://t.co/919RgUURaE\', u\'truncated\': True, ...}, {u\'created_at\': u\'Mon Sep 09 17:47:58 +0000 2019\', u\'favorite_count\': 7140, u\'hashtags\': [], u\'id\': 1171118058016051206L, u\'id_str\': u\'1171118058016051206\', u\'lang\': u\'pt\', u\'retweet_count\': 3485, u\'source\': u\'<a href="https://about.twitter.com/products/tweetdeck" rel="nofollow">TweetDeck</a>\', u\'text\': u\'em casa:\\n\\nn\\xe3o aguento mais ficar em casa\\n\\nqnd sa\\xed: \\n\\nquero ir pra casa\', u\'urls\': [], ...}, {u\'created_at\': u\'Mon Sep 09 04:26:10 +0000 2019\', u\'favorite_count\': 9733, u\'hashtags\': [], u\'id\': 1170916281220050944L, u\'id_str\': u\'1170916281220050944\', u\'lang\': u\'pt\', u\'place\': {u\'attributes\': {}, u\'bounding_box\': {u\'coordinates\': [[[...], [...], [...], [...]]], u\'type\': u\'Polygon\'}, u\'contained_within\': [], u\'country\': u\'Brazil\', u\'country_code\': u\'BR\', u\'full_name\': u\'Sao Paulo, Brazil\', u\'id\': u\'68e019afec7d0ba5\', u\'name\': u\'Sao Paulo\', u\'place_type\': u\'city\', u\'url\': u\'https://api.twitter.com/1.1/geo/id/68e019afec7d0ba5.json\'}, u\'retweet_count\': 2157, u\'source\': u\'<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>\', u\'text\': u\'Esse YouTuber est\\xe1 proibido de entrar na mi...ica o alerta aos p\\u2026 https://t.co/omO16RmZIN\', ...}, {u\'created_at\': u\'Tue Sep 10 10:35:50 +0000 2019\', u\'hashtags\': [], u\'id\': 1171371699897548803L, u\'id_str\': u\'1171371699897548803\', u\'lang\': u\'pt\', u\'source\': u\'<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>\', u\'text\': u\'Tenham amigos que te buscam em casa quando vc ...ulat\\xf3rio pra vc n\\xe3o ficar na merda sozinha\', u\'urls\': [], u\'user\': {u\'created_at\': u\'Sat Feb 19 21:51:16 +0000 2011\', u\'description\': u\'Atrair o que vc espera. Refletir o que vc dese...eita. Espelhar-se no que vc admira. \\u264a\\ufe0f\', u\'favourites_count\': 17720, u\'followers_count\': 645, u\'friends_count\': 418, u\'geo_enabled\': True, u\'id\': 254727155, u\'id_str\': u\'254727155\', u\'name\': u\'Carolina Lara\', u\'profile_background_color\': u\'FFFFFF\', ...}, u\'user_mentions\': []}, {u\'created_at\': u\'Tue Sep 10 10:35:50 +0000 2019\', u\'hashtags\': [], u\'id\': 1171371699650138114L, u\'id_str\': u\'1171371699650138114\', u\'lang\': u\'pt\', u\'media\': [{u\'display_url\': u\'pic.twitter.com/QmAQtGXAUs\', u\'expanded_url\': u\'https://twitter.com/eunsangprint/status/1163810505204494336/video/1\', u\'id\': 1163810477748604931L, u\'media_url\': u\'http://pbs.twimg.com/ext_tw_video_thumb/1163810477748604931/pu/img/SCuRvQTconf3dEVq.jpg\', u\'media_url_https\': u\'https://pbs.twimg.com/ext_tw_video_thumb/1163810477748604931/pu/img/SCuRvQTconf3dEVq.jpg\', u\'sizes\': {u\'large\': {u\'h\': 480, u\'resize\': u\'fit\', u\'w\': 480}, u\'medium\': {u\'h\': 480, u\'resize\': u\'fit\', u\'w\': 480}, u\'small\': {u\'h\': 480, u\'resize\': u\'fit\', u\'w\': 480}, u\'thumb\': {u\'h\': 150, u\'resize\': u\'crop\', u\'w\': 150}}, u\'type\': u\'video\', u\'url\': u\'https://t.co/QmAQtGXAUs\', u\'video_info\': {u\'aspect_ratio\': [1, 1], u\'duration_millis\': 10100, u\'variants\': [{...}, {...}, {...}]}}], u\'retweet_count\': 1604, u\'retweeted_status\': {u\'created_at\': u\'Mon Sep 09 11:05:32 +0000 2019\', u\'favorite_count\': 2999, u\'hashtags\': [], u\'id\': 1171016784486510592L, u\'id_str\': u\'1171016784486510592\', u\'lang\': u\'pt\', u\'media\': [{u\'display_url\': u\'pic.twitter.com/QmAQtGXAUs\', u\'expanded_url\': u\'https://twitter.com/eunsangprint/status/1163810505204494336/video/1\', u\'id\': 1163810477748604931L, u\'media_url\': u\'http://pbs.twimg.com/ext_tw_video_thumb/1163810477748604931/pu/img/SCuRvQTconf3dEVq.jpg\', u\'media_url_https\': u\'https://pbs.twimg.com/ext_tw_video_thumb/1163810477748604931/pu/img/SCuRvQTconf3dEVq.jpg\', u\'sizes\': {u\'large\': {...}, u\'medium\': {...}, u\'small\': {...}, u\'thumb\': {...}}, u\'type\': u\'video\', u\'url\': u\'https://t.co/QmAQtGXAUs\', u\'video_info\': {u\'aspect_ratio\': [...], u\'duration_millis\': 10100, u\'variants\': [...]}}], u\'retweet_count\': 1604, u\'source\': u\'<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>\', u\'text\': u\'quando eu passo o dia inteiro querendo chorar da\\xed chego em casa  https://t.co/QmAQtGXAUs\', ...}, u\'source\': u\'<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>\', u\'text\': u\'RT @esqu1lofrenia: quando eu passo o dia intei...ar da\\xed chego em casa  https://t.co/QmAQtGXAUs\', ...}]'
+p200
+sS'self'
+p201
+S'<json.decoder.JSONDecoder object>'
+p202
+sssS'traceback'
+p203
+S'Traceback (most recent call last):\n  File "C:\\Users\\Ignacio\\Desktop\\TFG\\Git\\web2py\\gluon\\restricted.py", line 219, in restricted\n    exec(ccode, environment)\n  File "C:\\Users\\Ignacio\\Desktop\\TFG\\Git\\web2py\\applications\\twitter_api\\controllers/api.py", line 353, in <module>\n  File "C:\\Users\\Ignacio\\Desktop\\TFG\\Git\\web2py\\gluon\\globals.py", line 421, in <lambda>\n    self._caller = lambda f: f()\n  File "C:\\Users\\Ignacio\\Desktop\\TFG\\Git\\web2py\\applications\\twitter_api\\controllers/api.py", line 85, in get_tweet\n    r = json.dumps(json.dumps(json.loads(tweets)))\n  File "C:\\Python27\\lib\\json\\__init__.py", line 338, in loads\n    return _default_decoder.decode(s)\n  File "C:\\Python27\\lib\\json\\decoder.py", line 366, in decode\n    obj, end = self.raw_decode(s, idx=_w(s, 0).end())\nTypeError: expected string or buffer\n'
+p204
+s.
